@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stee1ix/monster-dex/static/css/main.c2ec9f94.chunk.css",
-    "main.js": "/stee1ix/monster-dex/static/js/main.41d51cd5.chunk.js",
-    "main.js.map": "/stee1ix/monster-dex/static/js/main.41d51cd5.chunk.js.map",
+    "main.js": "/stee1ix/monster-dex/static/js/main.55185555.chunk.js",
+    "main.js.map": "/stee1ix/monster-dex/static/js/main.55185555.chunk.js.map",
     "runtime-main.js": "/stee1ix/monster-dex/static/js/runtime-main.90d2cfc9.js",
     "runtime-main.js.map": "/stee1ix/monster-dex/static/js/runtime-main.90d2cfc9.js.map",
     "static/js/2.6e703cfa.chunk.js": "/stee1ix/monster-dex/static/js/2.6e703cfa.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.90d2cfc9.js",
     "static/js/2.6e703cfa.chunk.js",
     "static/css/main.c2ec9f94.chunk.css",
-    "static/js/main.41d51cd5.chunk.js"
+    "static/js/main.55185555.chunk.js"
   ]
 }
