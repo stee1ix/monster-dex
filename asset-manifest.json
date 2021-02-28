@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stee1ix/monster-dex/static/css/main.c2ec9f94.chunk.css",
+    "main.js": "/stee1ix/monster-dex/static/js/main.41d51cd5.chunk.js",
+    "main.js.map": "/stee1ix/monster-dex/static/js/main.41d51cd5.chunk.js.map",
+    "runtime-main.js": "/stee1ix/monster-dex/static/js/runtime-main.90d2cfc9.js",
+    "runtime-main.js.map": "/stee1ix/monster-dex/static/js/runtime-main.90d2cfc9.js.map",
+    "static/js/2.6e703cfa.chunk.js": "/stee1ix/monster-dex/static/js/2.6e703cfa.chunk.js",
+    "static/js/2.6e703cfa.chunk.js.map": "/stee1ix/monster-dex/static/js/2.6e703cfa.chunk.js.map",
+    "static/js/3.90c0e921.chunk.js": "/stee1ix/monster-dex/static/js/3.90c0e921.chunk.js",
+    "static/js/3.90c0e921.chunk.js.map": "/stee1ix/monster-dex/static/js/3.90c0e921.chunk.js.map",
+    "index.html": "/stee1ix/monster-dex/index.html",
+    "static/css/main.c2ec9f94.chunk.css.map": "/stee1ix/monster-dex/static/css/main.c2ec9f94.chunk.css.map",
+    "static/js/2.6e703cfa.chunk.js.LICENSE.txt": "/stee1ix/monster-dex/static/js/2.6e703cfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d2cfc9.js",
+    "static/js/2.6e703cfa.chunk.js",
+    "static/css/main.c2ec9f94.chunk.css",
+    "static/js/main.41d51cd5.chunk.js"
+  ]
+}
